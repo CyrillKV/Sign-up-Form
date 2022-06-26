@@ -85,3 +85,10 @@ button{
 .main_btns>p, .form_container div{
   font-size: 0.6rem;
 }
+
+.validator{
+  color: red;
+}
+.valid{
+  color: green;
+}
